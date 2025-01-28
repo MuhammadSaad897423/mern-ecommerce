@@ -8,3 +8,4 @@
     "app": "client/app"
   }
 }
+"prettier.trailingComma": "none.updated"
